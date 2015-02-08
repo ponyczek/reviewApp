@@ -40,3 +40,6 @@ gem 'spring',        group: :development
 # gem 'debugger', group: [:development, :test]
 #Adding papperclip
 gem 'paperclip', '~> 4.2.1'
+
+#Bootstrap added
+gem 'bootstrap-sass'
