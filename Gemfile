@@ -38,4 +38,5 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
-
+#Adding papperclip
+gem 'paperclip', '~> 4.2.1'
